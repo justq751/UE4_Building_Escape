@@ -1,0 +1,57 @@
+[
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_Escape.Build.cs",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_Escape.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_Escape.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "H:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "h:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenDoor.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "h:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenDoor.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "h:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Grabber.h",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "h:\\\\WORK\\\\Unreal\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Grabber.cpp",
+        "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"H:\\WORK\\Unreal\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.210.rsp\"",
+        "directory": "H:\\UE_4.27\\Engine\\Source"
+    }
+]
